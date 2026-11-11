@@ -57,10 +57,10 @@ step 3  final_answer: "... chứng tỏ không có incident nào được ghi nh
 
 | Chỉ số | `eval_before.json` | `eval_after.json` |
 |---|---|---|
-| Điểm tổng | 83.55 | [CẦN ĐIỀN] |
+| Điểm tổng | 83.55 | 77.5 |
 | Điểm case đã chọn (A5) | 53 | 65 |
-| Số model calls (22 case) | [CẦN ĐIỀN] | [CẦN ĐIỀN] |
-| Token agent (22 case) | [CẦN ĐIỀN] | [CẦN ĐIỀN] |
+| Số model calls (22 case) | 53 | 48 |
+| Token agent (22 case) | 46297 | 40065 |
 
 A5 lần 1: 3 model calls, 4546 token agent (285 + 820 + 3441), 4014 token judge. A5 lần 2: 3 model calls.
 
